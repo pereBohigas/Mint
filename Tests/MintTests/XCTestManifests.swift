@@ -1,5 +1,3 @@
-import XCTest
-
 extension MintTests {
     static let __allTests = [
         ("testBootstrapCommand", testBootstrapCommand),

@@ -1,4 +1,3 @@
-import MintTests
 import XCTest
 
 var tests = [XCTestCaseEntry]()
